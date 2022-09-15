@@ -27,4 +27,3 @@ for _ in range(1000):
         tim.backward(10)
 
 screen.exitonclick()
-
